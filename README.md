@@ -1,4 +1,4 @@
-# White Blood Cells Type Classification
+# White Blood Cells Type Classification.
 
 Identification of human blood is very important to know before any blood transfusion. In emergency situations, if the blood group is not identified exactly, it causes many problems to the patient and may become fatal. Generally, the blood group is identified manually by the lab technicians performing blood tests. 
 
